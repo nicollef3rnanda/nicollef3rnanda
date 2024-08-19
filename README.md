@@ -2,7 +2,7 @@
 
 Meu nome e nicolle fernanda
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou desenvolvendo na linguagem javascript
 - Utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome e nicolle fernanda
 
 @nicollef3rnanda
 
-<div class="tenor-gif-embed" data-postid="14259530" data-share-method="host" data-aspect-ratio="0.833333" data-width="100%"><a href="https://tenor.com/view/sam-winchester-dean-winchester-winchester-brothers-spn-supernatural-gif-14259530">Sam Winchester Dean Winchester GIF</a>from <a href="https://tenor.com/search/sam+winchester-gifs">Sam Winchester GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://media1.tenor.com/m/N3wBsTcGiUQAAAAC/jensen-ackles-dean-winchester.gif)
